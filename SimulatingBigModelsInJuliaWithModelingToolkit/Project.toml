@@ -1,0 +1,6 @@
+[deps]
+Catalyst = "479239e8-5488-4da2-87a7-35f2df7eef83"
+GalacticOptim = "a75be94c-b780-496d-a8a9-0878b188d577"
+Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
